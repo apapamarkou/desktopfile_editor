@@ -1,4 +1,4 @@
-# AppImage Menu Manager Script
+# Desktopfile editor 
 
 A simple and convenient utility to edit or create .desktop files. 
 
