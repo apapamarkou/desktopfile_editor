@@ -52,8 +52,9 @@ To run this application, you need the following dependencies:
 2. **Install the script**:
     ```bash
     mkdir -p ~/Applications/appimage_manager
-    git clone https://github.com/apapamarkou/desktopfile_editor .git ~/Applications/desktopfile_editor
+    git clone https://github.com/apapamarkou/desktopfile_editor.git ~/Applications/desktopfile_editor
     chmod +x ~/Applications/desktopfile_editor/desktopfile_editor.py
+    chmod +x ~/Applications/desktopfile_editor/install.sh
     ~/Applications/desktopfile_editor/install.sh
     ```
 
