@@ -51,7 +51,7 @@ To run this application, you need the following dependencies:
    You may need to compile PyQt5 from source or find packages suitable for Slackware.
 
 
-2. **Install the script**:
+2. **Install the utility**:
     ```bash
     mkdir -p ~/Applications/appimage_manager
     git clone https://github.com/apapamarkou/desktopfile_editor.git ~/Applications/desktopfile_editor
