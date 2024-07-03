@@ -2,7 +2,7 @@
 #!/bin/bash
 
 # Define the file path
-DESKTOP_FILE="$HOME/.local/share/applications/Desktopfile.desktop"
+DESKTOP_FILE="$HOME/.local/share/applications/desktopfile_editor.desktop"
 
 # Create the directory if it doesn't exist
 mkdir -p "$HOME/.local/share/applications"
@@ -10,7 +10,7 @@ mkdir -p "$HOME/.local/share/applications"
 # Write the desktop entry to the file
 cat <<EOL > "$DESKTOP_FILE"
 [Desktop Entry]
-Name=Desktopfile
+Name=Desktopfile_Editor
 Exec=$HOME/Applications/desktopfile_editor/desktopfile_editor.py
 Icon=$HOME/Applications/desktopfile_editor/desktopfile_editor.png
 Categories=Utilities;
