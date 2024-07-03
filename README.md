@@ -62,7 +62,7 @@ To run this application, you need the following dependencies:
 
 ## Usage
 
-Right click on a .desktop file -> Open With -> Other Application -> Select the "Desktopfile Editor" application.
+Right click on a .desktop file -> Open With -> Other Application -> Select the "Desktopfile_Editor" application.
 
 ## Troubleshooting
 
