@@ -1,7 +1,5 @@
 # Desktopfile editor 
-
 ![Screenshot_20240703_232813](https://github.com/apapamarkou/desktopfile_editor/assets/42995877/b639c158-d5af-41f1-9b7b-bb96b3dcc56a)
-
 A simple and convenient utility to edit or create .desktop files. 
 
 ## Features
